@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "Version 4/2026-11-06_SYD Website.html",
+  "entry": "Version 4/2026-11-06_SYD Website.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-11-09T20:19:48.105Z",
+  "updatedAt": "2026-11-09T20:19:48.105Z",
+  "metadata": {
+    "inferred": true,
+    "reconciled": true
+  }
+}
